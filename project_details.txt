@@ -1,1 +1,4 @@
-Hello
+New Feature: Dark Mode  
+- Added support for dark mode to improve user experience in low-light environments.  
+- Users can toggle between light and dark mode in settings.  
+- Added more themes
