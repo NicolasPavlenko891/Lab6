@@ -1,1 +1,1 @@
-# Lab6
+# Lab6 Practice repository for GitHub workflow assignment
